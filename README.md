@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/234790831?v=4" width="120" style="border-radius: 50%; border: 3px solid #fe428e;" alt="Zaid AL-Qadmy" />
+
 
 <br/><br/>
 
