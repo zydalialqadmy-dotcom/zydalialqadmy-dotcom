@@ -1,96 +1,145 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:007acc&height=180&section=header&text=Zaid%20AL-Qadmy&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20%26%20Mobile%20Developer%20%E2%80%A2%20Cybersecurity&descAlignY=56&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,100:fe428e&height=180&section=header&text=Zaid%20AL-Qadmy&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20%26%20Mobile%20Developer%20%E2%80%A2%20Cybersecurity&descAlignY=56&descSize=16"/>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=007ACC&center=true&vCenter=true&width=750&lines=Software+Engineer+%E2%80%A2+System+Architecture;Full+Stack+Developer+(ASP.NET+Core+%E2%80%A2+PHP+%E2%80%A2+JS);Mobile+App+Developer+(Flutter+%26+Dart);Database+Administrator+(SQL+Server+%E2%80%A2+Oracle+%E2%80%A2+MySQL);Cybersecurity+%E2%80%A2+Ethical+Hacking+%E2%80%A2+System+Auditing" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FE428E&center=true&vCenter=true&width=700&lines=Software+Engineer+%E2%80%A2+System+Architecture;C%23+%E2%80%A2+Python+%E2%80%A2+PHP+%E2%80%A2+Dart+%E2%80%A2+JavaScript;Flutter+%E2%80%A2+ASP.NET+Core+%E2%80%A2+REST+APIs;SQL+Server+%E2%80%A2+Oracle+%E2%80%A2+MySQL+%E2%80%A2+MongoDB;Cybersecurity+%E2%80%A2+Ethical+Hacking+%E2%80%A2+SysAdmin" alt="Typing SVG" /></a>
 
-<br/>
-
-<a href="https://github.com/zydalialqadmy-dotcom"><img src="https://img.shields.io/badge/GitHub-zydalialqadmy--dotcom-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/zydalialqadmy-dotcom"><img src="https://img.shields.io/badge/zydalialqadmy--dotcom-141321?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 <br/>
 
-## 👨‍💻 نبذة عني | About Me
+## 👋 About Me
 
-```csharp
-public class SoftwareEngineer
-{
-    public string Name => "Zaid AL-Qadmy";
-    public string[] FocusAreas => new[] 
-    {
-        "Software Engineering & System Architecture",
-        "Web & Mobile Applications Development",
-        "Database Design & Administration",
-        "Cybersecurity, Vulnerability Assessment & Pen-Testing",
-        "Networks & Systems Administration"
-    };
-    public string Motto => "Turning complex requirements into secure, high-performance systems.";
-}
+```ts
+const zaid = {
+  name: "Zaid AL-Qadmy",
+  role: "Software Engineer & Full Stack / Mobile Developer",
+  skills: {
+    programming: ["C#", "Python", "PHP", "JavaScript", "Dart", "SQL", "PL/SQL"],
+    web: ["HTML", "CSS", "ASP.NET Core", "PHP", "REST API"],
+    mobile: ["Flutter", "Dart"],
+    databases: ["MySQL", "SQL Server", "Oracle", "MongoDB"],
+    systemsAndSecurity: ["Ethical Hacking", "Windows Server", "Active Directory", "VMware"]
+  },
+  interests: ["Software Architecture", "Cybersecurity", "UI/UX & HCI", "Database Optimization"],
+  engineering: ["Requirements Analysis", "Business Rules", "System & DB Design"],
+};
 ```
 
 <br/>
 
-## 🛠️ المهارات والتقنيات | Skills & Technologies
+## 🚀 Highlights & Domains
 
 <div align="center">
 
-### 💻 لغات البرمجة وأطر العمل (Languages & Frameworks)
-<img src="https://skillicons.dev/icons?i=cs,dotnet,py,php,js,dart,flutter,html,css&perline=9" />
-
-<br/>
-
-### 🗄️ قواعد البيانات وأدوات التطوير (Databases & Dev Tools)
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,visualstudio,vscode,androidstudio,postman,git,github&perline=8" />
-
-<br/>
-
-### 🛡️ الأنظمة، الشبكات والأمن (Systems & Security)
-<img src="https://skillicons.dev/icons?i=windows,linux,kali&perline=5" />
+<table>
+  <tr>
+    <th>Domain / Project</th>
+    <th>Description</th>
+    <th>Core Technologies</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/zydalialqadmy-dotcom/zaid_alqadmy"><b>zaid_alqadmy</b></a><br/>
+      <img src="https://img.shields.io/github/stars/zydalialqadmy-dotcom/zaid_alqadmy?style=flat-square&logo=github&label=%E2%98%85&color=fe428e"/>
+    </td>
+    <td>Personal portfolio & web development showcase</td>
+    <td align="center">
+      <code>HTML</code> • <code>CSS</code> • <code>JavaScript</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Enterprise Web Applications</b>
+    </td>
+    <td>Scalable backend systems, business logic & RESTful APIs</td>
+    <td align="center">
+      <code>ASP.NET Core</code> • <code>C#</code> • <code>PHP</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Mobile Applications</b>
+    </td>
+    <td>Cross-platform applications for iOS and Android</td>
+    <td align="center">
+      <code>Flutter</code> • <code>Dart</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Database Systems</b>
+    </td>
+    <td>Data modeling, query optimization & database management</td>
+    <td align="center">
+      <code>SQL Server</code> • <code>Oracle</code> • <code>MySQL</code> • <code>MongoDB</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Cybersecurity & Infrastructure</b>
+    </td>
+    <td>Vulnerability assessment, pen-testing & network systems</td>
+    <td align="center">
+      <code>Active Directory</code> • <code>Windows Server</code> • <code>VMware</code>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <br/>
 
-| المجال | المهارات والتقنيات بالتفصيل |
-| :--- | :--- |
-| **البرمجة (Programming)** | `C#` • `Python` • `PHP` • `JavaScript` • `Dart` • `SQL` • `PL/SQL` |
-| **تطوير الويب (Web Development)** | `ASP.NET Core` • `PHP` • `HTML5` • `CSS3` • `JavaScript` • `REST API` |
-| **تطبيقات الموبايل (Mobile Apps)** | `Flutter` • `Dart` |
-| **قواعد البيانات (Databases)** | `SQL Server` • `Oracle` • `MySQL` • `MongoDB` |
-| **تصميم الواجهات (UI/UX)** | `UI/UX Design` • `HCI (Human-Computer Interaction)` |
-| **الأمن السيبراني (Cybersecurity)** | `Ethical Hacking` • فحص الثغرات • اختبار الاختراق • تدقيق الأنظمة |
-| **الشبكات والأنظمة (Networks & Systems)** | `Windows Server` • `Active Directory` • `VMware` • `Syslog` • `Linux` |
-| **أدوات التطوير (Dev Tools)** | `Visual Studio` • `VS Code` • `Android Studio` • `Postman` |
-| **إدارة المشاريع (Project Management)** | `Jira` • `Git` • `GitHub` |
-| **هندسة البرمجيات (Software Engineering)** | تحليل المتطلبات • قواعد العمل (Business Logic) • تصميم الأنظمة وقواعد البيانات |
-
-<br/>
-
-## 📊 إحصائيات الحساب | GitHub Statistics
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=zydalialqadmy-dotcom&show_icons=true&theme=tokyonight&hide_border=false" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zydalialqadmy-dotcom&layout=compact&theme=tokyonight&hide_border=false" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,py,php,js,dart,flutter,html&perline=8" /><br/>
+<img src="https://skillicons.dev/icons?i=css,mysql,mongodb,visualstudio,vscode,androidstudio,postman,git&perline=8" /><br/>
+<img src="https://skillicons.dev/icons?i=github,windows,linux,kali,figma&perline=8" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zydalialqadmy-dotcom&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zydalialqadmy-dotcom&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zydalialqadmy-dotcom&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zydalialqadmy-dotcom&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zydalialqadmy-dotcom&theme=radical">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=zydalialqadmy-dotcom&theme=radical&hide_border=false">
+<img height="169em" src="https://github-readme-streak-stats-nu-snowy.vercel.app?user=zydalialqadmy-dotcom&theme=radical">
+
+</div>
+
+<br/>
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=zydalialqadmy-dotcom&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub>Thanks for stopping by! ⭐ Feel free to check out my repositories.</sub>
 
 <br/><br/>
 
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=zydalialqadmy-dotcom&theme=tokyonight&hide_border=false" />
-
-<br/><br/>
-
-<img src="https://github-trophies.vercel.app/?username=zydalialqadmy-dotcom&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+<img src="https://komarev.com/ghpvc/?username=zydalialqadmy-dotcom&color=fe428e&style=flat-square&label=Profile+views" alt="Profile views" />
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=zydalialqadmy-dotcom&color=007acc&style=flat-square&label=Profile+Views" alt="Profile views" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:007acc,100:0d1117&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fe428e,100:141321&height=100&section=footer"/>
